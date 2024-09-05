@@ -1,0 +1,205 @@
+
+a {
+  color: black;
+  text-decoration:none;
+  
+  }
+  
+
+
+.blog {
+  background-color: rgb(20, 20, 146);
+  height: 350px;
+  justify-content: center;
+
+}
+
+.blog-title {
+  padding: 30px 0 0 0;
+  text-align: center;
+  color: white;
+  font-size: 70px;
+
+}
+
+.blog-description {
+text-align: center;
+color: white;
+margin-bottom: 30px;
+font-size: 22px;
+
+}
+
+.div-blog-input {
+
+  text-align: center;
+}
+
+.blog-input {
+  border-radius: 5cm;
+  border-color: black;
+  height: 30px;
+  width: 200px;
+
+}
+
+.blog-button {
+
+  background-color: rgb(60, 95, 255);
+  color: aliceblue;
+  height: 30px;
+  border-radius: 5cm;
+  border-width: 2px;
+  border-color: aliceblue;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  vertical-align: middle;
+  flex-wrap: wrap;
+}
+
+
+.header-div-title {
+
+  margin-left: 50px;
+  font-size: 25px;
+  margin-top: 20px;
+}
+
+
+.header-list {
+  
+  width: 500px;
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  font-size: x-large;
+  font-weight: 600;
+  margin-top: 30px;
+
+}
+
+.header-list-item {
+  text-wrap: nowrap;
+  padding: 0 30px;
+
+}
+
+.header-button {
+  width: 180px;
+  background-color: white;
+  border-radius: 5cm;
+  height: 60px;
+  font-size: 20px;
+  font-weight: 800;
+  border-color: rgb(171, 171, 171);
+  text-wrap: nowrap;
+  margin-right: 50px;
+  margin-top: 20px;
+}
+
+.header-button:hover {
+  background-color: rgb(60, 95, 255);
+  color: aliceblue;
+
+}
+
+.article {
+  display: flex;
+  justify-content: center;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.article-section {
+
+
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin: 0;
+}
+
+
+.article-section-card {
+
+  height: 300px;
+  width: 200px;
+  background-color: rgba(54, 79, 238, 0.844);
+  margin: 0 10px 20px 10px;
+}
+
+.article-section-card-up {
+
+  height: 150px;
+  width: 200px;
+  border-style: solid;
+  border-color: gainsboro;
+  border-width: 2px;
+  background-color: rgb(0, 255, 179);
+  border-radius: 0.2cm;
+  justify-content: center;
+  text-align: center;
+}
+.article-section-card-down {
+
+  height: 150px;
+  width: 175px;
+  border-style: solid;
+  border-color: gainsboro;
+  border-width: 2px;
+  background-color: rgb(255, 255, 255);
+  justify-content: center;
+  text-align: center;
+  
+}
+
+.card-title {
+  color: aliceblue;
+
+}
+
+.card-description {
+
+  font-size: 10px;
+  margin: 40px 0 30px 0;
+  padding: 0 10px 0 10px;
+  color: aliceblue;
+}
+
+.card-img{
+margin-top: 10px;
+margin-bottom: 10px;
+height: 100px;
+width: 180px;
+
+
+}
+
+.card-date {
+  font-size: 8px;
+  padding-left: 10px;
+  text-align: left;
+  color: antiquewhite;
+}
+
+.card-reply{
+  font-size: 8px;
+  padding-left: 10px;
+  text-align: right;
+  color: antiquewhite;
+  
+}
+
+.flexible {
+  display:inline-flex;
+ justify-content: space-between;
+
+}
+
+.page-page {
+  justify-content: center;
+  text-align: center;
+}

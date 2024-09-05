@@ -1,0 +1,189 @@
+.container {
+
+	display: flex; 
+
+  justify-content: space-evenly;
+
+  margin-bottom: 100px;
+  
+}
+
+.service-title {
+  font-weight: 900;
+
+}
+
+.consulting {
+height: 35px;
+border-radius: 30px;
+
+}
+
+.main-title {
+font-size: 70px;
+font-weight: 900;
+}
+
+.item-size {
+
+  width: 400px;
+  height: auto;
+  margin-left: 100px;
+}
+
+.bestchoice-box {
+  justify-content: center;
+  align-items: center;
+  text-wrap: nowrap;
+}
+
+.card {
+  border-radius: 5%;
+  height: 400px;
+  
+  margin: 0 20px ;
+}
+
+.card-title{
+  font-size: xx-large;
+  font-weight: 800;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.card-text{
+margin-top: 60px;
+  margin-bottom: 60px;
+
+}
+
+
+.btn-primary:hover{
+  background-color: white;
+  color: black;
+  font-weight: 800;
+}
+
+.btn-primary {
+
+  background-color: black;
+  
+
+}
+
+.overlay{
+
+background-color: blue;
+
+}
+
+.bestchoice-text {
+
+  vertical-align: auto;
+}
+
+
+
+
+
+.subscribe{
+
+  background-color: rgb(66, 66, 250);
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 100px;
+
+
+}
+
+.subscribe-button:hover {
+  background-color: white;
+  color: rgb(48, 48, 255);
+  font-weight: 800;
+
+}
+
+.subscribe-title{
+  color: white;
+  margin: 40px 60px 0 0;
+}
+
+
+.subscribe-email {
+ 
+  margin: 20px 0 0 0;
+}
+
+.subscribe-button {
+ color: white;
+  margin: 0 0 0 0;
+  border-radius: 0%;
+  height: 29px;
+  justify-content: center;
+  text-align: center;
+}
+
+
+.sitemap-list{
+  padding: 0 200px 0 200px;
+  display: flex;
+  justify-content: space-around;
+  text-wrap: nowrap;
+
+}
+
+
+.sitemap-list-title {
+
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.sitemap-list-list{
+
+  list-style-type: none;
+}
+
+.sitemap-list-item {
+
+  margin-bottom: 10px;
+}
+
+
+a {
+text-decoration: none;
+color: black;
+}
+
+
+.section-footer-list{
+
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.section-footer-list-item  {
+  color: black;
+  text-wrap: nowrap;
+  flex-wrap: wrap;
+  margin: 0 10px 40px 10px;
+}
+
+hr{
+  width: 70%;
+  height: 2px;
+  background-color: gray;
+  margin: auto;
+  margin-bottom: 30px;
+
+}
+
+
+.company-introduce-text {
+
+  text-align: center;
+
+  
+
+}
